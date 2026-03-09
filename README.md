@@ -1,49 +1,91 @@
-Used Car Market Data Analysis
-Overview
-This project analyzes a used car dataset to understand the main factors affecting vehicle prices. The analysis focuses on descriptive statistics, price distribution, market concentration, and relationships between selling price and variables such as fuel efficiency, vehicle age, brand reputation, fuel type, transmission type, and kilometers driven.
-Objectives
-Explore the overall distribution of used car prices
-Identify outliers and variation in the dataset
-Examine the effect of numerical factors such as mileage, fuel efficiency, and age on price
-Analyze how categorical factors such as brand, fuel type, and transmission type relate to price
-Provide business and market insights through visual analysis and dashboard presentation
-Dataset
-The dataset contains information on used cars, including:
-Selling price
-Fuel efficiency
-Vehicle age
-Kilometers driven
-Brand
-Fuel type
-Transmission type
-Brand origin
-Other relevant vehicle characteristics
-Methods
-The project uses exploratory data analysis techniques, including:
-Measures of central tendency
-Measures of dispersion
-Box plot analysis
-Histogram analysis
-Market concentration analysis
-Comparative analysis across brands and vehicle characteristics
-Key Questions
-This project aims to answer the following questions:
-How are used car prices distributed in the market?
-How much variation exists in vehicle prices?
-Does fuel efficiency affect the selling price?
-How does vehicle age influence price?
-Does brand reputation lead to higher prices?
-What is the relationship between brand and fuel type?
-What is the relationship between brand origin and transmission type?
-How does kilometers driven affect selling price?
-Tools Used
-Tableau
-Excel
-Microsoft Word
-Findings
-The analysis shows that used car prices are influenced by a combination of numerical and categorical factors. Variables such as vehicle age, kilometers driven, and brand reputation appear to play an important role in determining selling price. Visualizations such as box plots and histograms also help identify skewness, outliers, and possible market segmentation patterns.
-Dashboard
-A dashboard was created to summarize the main findings and present the results in a clear and interactive way.
-Conclusion
-This project provides insights into the structure of the used car market and highlights the main drivers of vehicle prices. It demonstrates how exploratory data analysis can support market understanding and decision-making.
-If you want, I can turn this into a more professional GitHub README with sections like Project Structure, Results, and Future Improvements.
+# Used Car Market Data Analysis
+
+## Overview
+This project analyzes a used car dataset to understand the main factors influencing vehicle prices. The analysis focuses on price distribution, descriptive statistics, and the relationships between price and variables such as vehicle age, fuel efficiency, kilometers driven, brand reputation, fuel type, and transmission type.
+
+The goal of the project is to explore patterns in the used car market and identify key variables that affect selling prices.
+
+---
+
+## Objectives
+- Explore the distribution of used car prices
+- Identify variation and potential outliers in the dataset
+- Analyze the impact of numerical variables such as vehicle age, fuel efficiency, and kilometers driven on price
+- Examine how categorical variables such as brand, fuel type, and transmission type relate to vehicle prices
+- Provide insights into the structure of the used car market through data visualization
+
+---
+
+## Dataset
+The dataset contains information about used cars, including:
+
+- Selling price
+- Fuel efficiency
+- Vehicle age
+- Kilometers driven
+- Brand
+- Fuel type
+- Transmission type
+- Brand origin
+
+These variables allow for both numerical and categorical analysis of the used car market.
+
+---
+
+## Methods
+The project uses several exploratory data analysis techniques:
+
+- Measures of central tendency (mean, median)
+- Measures of dispersion (variance, standard deviation)
+- Box plot analysis
+- Histogram analysis
+- Market concentration analysis
+- Comparative analysis across vehicle characteristics
+
+---
+
+## Key Questions
+This project investigates the following questions:
+
+- How are used car prices distributed in the market?
+- How much variation exists in vehicle prices?
+- Does fuel efficiency influence selling price?
+- How does vehicle age affect price?
+- Does brand reputation impact the selling price?
+- What is the relationship between brand and fuel type?
+- What is the relationship between brand origin and transmission type?
+- How do kilometers driven affect selling price?
+
+---
+
+## Tools Used
+- Tableau
+- Excel
+- Microsoft Word
+
+---
+
+## Results
+The analysis shows that several factors influence used car prices. Variables such as vehicle age, kilometers driven, and brand reputation appear to play an important role in determining selling price. Visualizations also highlight price distribution patterns and potential market segmentation.
+
+---
+
+## Dashboard
+A dashboard was created to summarize key insights and present the results visually.
+
+The dashboard includes:
+- Price distribution visualizations
+- Comparative analysis across brands
+- Relationships between vehicle characteristics and selling price
+
+---
+
+## Conclusion
+This project demonstrates how exploratory data analysis can be used to better understand the used car market. By analyzing both numerical and categorical variables, the project identifies key factors that influence vehicle prices and highlights patterns within the market.
+
+---
+
+## Future Improvements
+- Apply regression models to quantify price determinants
+- Expand the dataset to include more vehicles and additional features
+- Build predictive models for estimating vehicle prices
